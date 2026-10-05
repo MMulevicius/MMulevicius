@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm [Matas](https://www.linkedin.com/in/matas-mulevicius/), a Computer Science graduate based in UK.
+
+I enjoy learning new things, trying new technologies and building whatever is on my mind.
+
+My main tech stack is: C++, OpenGL, Unreal Engine 5 
 <!--
 **MMulevicius/MMulevicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
