@@ -6,7 +6,7 @@ I enjoy learning new things, trying new technologies and building whatever is on
 
 My main tech stack is: C++, OpenGL, Unreal Engine 5 
 
-I'm currently working in a team on a personal game project called ["Bellow"](https://github.com/MMulevicius/Bellow). 🎮
+I'm currently working in a small team on a personal indie game project called ["Bellow"](https://github.com/MMulevicius/Bellow). 🎮
 <!--
 **MMulevicius/MMulevicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
